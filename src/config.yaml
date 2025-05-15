@@ -1,7 +1,7 @@
 site:
   name: Empower your local neighborhood
   site: 'https://empower-your-local-neighborhood.github.io'
-  base: ''
+  base: '/'
   trailingSlash: false
 
   googleSiteVerificationId: 
