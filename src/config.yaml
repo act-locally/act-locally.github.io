@@ -1,8 +1,7 @@
 site:
   name: Empower your local neighborhood
-  site: 'https://empower-your-local-neighborhood.github.io',
-  base: 'default-astro-website',
-
+  site: 'https://empower-your-local-neighborhood.github.io'
+  base: 'default-astro-website'
   trailingSlash: false
 
   googleSiteVerificationId: 
